@@ -7,13 +7,13 @@
 
 ### Windows
   
-_Running:_ `gradlew app:run`  
-_Building:_ `gradlew app:dist`  
+_运行:_ `gradlew app:run`  
+_构建:_ `gradlew app:dist`  
 
 ### Linux/Mac OS
   
-_Running:_ `./gradlew app:run`  
-_Building:_ `./gradlew app:dist`  
+_运行:_ `./gradlew app:run`  
+_构建:_ `./gradlew app:dist`  
 
 ### Android
 
